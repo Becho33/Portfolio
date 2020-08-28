@@ -1,13 +1,15 @@
 body{
     text-align: center;
     background: url("http://www.blended-html.com/background-images/bi-background-html-css.png");
-    font-family: poppins;
+    font-family: Optima;
 }
 
 h1,h2,p, li{
     color: white;
     font-size: 25px
+    font-family: Optima;
 }
 a{
     color: skyblue;
+    font-family: Optima;
 }
